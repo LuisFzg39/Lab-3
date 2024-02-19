@@ -22,7 +22,6 @@ body {
 
 }
 
-
 h1, h2, a, p, button{
 
     font-family: "Roboto", sans-serif;
@@ -141,6 +140,7 @@ img {
 #sing-up {
 
     margin-top: 25px;
+    margin-left: 180px;
 
 }
 
