@@ -52,6 +52,7 @@ h2 {
     border-style: hidden;
     margin-left: 40px;
     font-size: 18px;
+    outline: none;
     
     
 
@@ -111,23 +112,14 @@ img {
 
     height: 40px;
     width: 40px;
+    margin: 5px;
     
-
-}
-
-#x-logo {
-
-
-    height: 50px;
-    width: 65px;
-    margin-top: 10px;
-
 }
 
 #facebook-logo {
 
 
-    margin-left: 135px;
+    margin-left: 140px;
 
 }
 
