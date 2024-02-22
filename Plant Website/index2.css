@@ -1,6 +1,6 @@
 body {
 
-    background-image: url(Images/website-wallpaper.avif);
+    background-image: url(Images/16-bit-wallpaper.jpg);
     background-color: darkgreen;
     background-repeat: no-repeat;
     background-size: cover;
@@ -8,6 +8,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    overflow: hidden;
 
 }
 
@@ -91,6 +92,7 @@ img {
     width: 140px;
     height: 140px;
     margin-left: 105px;
+    border-radius: 50%;
     
 
 }
